@@ -1,46 +1,58 @@
 {
   "plants": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Aloe",
       "image": "./images/aloe.jpg",
       "price": 15.99
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
       "price": 25.98
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
       "price": 5.99
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Pothos",
       "image": "./images/pothos.jpg",
       "price": 12.11
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Jade",
       "image": "./images/jade.jpg",
       "price": 10.37
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
       "price": 25.99
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": "ef1d",
+      "name": "beans",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhISEhMVFRUQFRUWFRUQFRAVFRUVFRUWFhUVFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGhAQGy0dHSUtLS0tLSstLS0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLTAtLS0tKystLS0rLS0tLS0tLf/AABEIALcBEwMBIgACEQEDEQH/xAAcAAADAAMBAQEAAAAAAAAAAAADBAUAAQIGBwj/xAA+EAACAgECAwUGAwYFAwUAAAABAgADEQQhBRIxIkFRYXEGE4GRscEyodEUI1JicrIzQpLh8BVDglNzotLx/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAECAwQF/8QAKhEAAgICAgEEAQMFAQAAAAAAAAECEQMhEjFBBBMiUWEUgcEjMqGx8AX/2gAMAwEAAhEDEQA/APpektlOl5C0rypTZPIwzNZIpK0IGiaWQgsndGZnQ0GmZgQ83zS+YBCYNjNFoNmkykBy7Rex525i9hnNORSOGMWsMK5gHM5pstC10StEesitgnNJlonXCK2NiULUiN6SLLQINNlsRdjicNbCwoJe2ZK1AjdlkRtlxZLQrauYB649yTk0zRMlk1qZ3VVKA02YWvRR8yGc6XTypRVicaenEbWZydmTYSqvMcpogqDHazEkSjpKp0RidFxiKX6iaJDs6utk3U6iB1esxJN+tlok71lmZLKzV+vEV/a95aTJYwapkGNRNwoD6rpbJSpskHT2x+q6c2OdHa0WFthVtkxLoVbZ1xyENFNbIQPJ9dsOlk0WQmhrM4YzkPNM0HkCjlovYYR3i9jTNyKRw8XsaEdora0xmykcu0BYZtmgHac7KMYRO4RktAOJmxkzUrJ1jyzqKpI1NMqKZSYLnmiMwOcQlZzLQmdhIenTM2ygn0EJU5XddicD4H/8h9BxgVkhlUh8ZJyOnp9Y3NLTMJTp0DbQu",
+      "price": "12"
+    },
+    {
+      "id": "6ddc",
+      "name": "",
+      "image": "",
+      "price": ""
     }
   ]
 }
